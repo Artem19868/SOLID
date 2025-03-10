@@ -1,0 +1,6 @@
+model\Task.class
+service\TaskService.class
+Main.class
+service\TaskServiceImpl.class
+repository\InMemoryTaskRepository.class
+repository\TaskRepository.class
